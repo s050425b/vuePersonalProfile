@@ -14,8 +14,8 @@
                 <div id="top-info">
                     <h2>You can view my information here below!</h2>
                     <div id="top-info-link">
-                        <a href="../assets/resource/doc/CV_LauChungYuen.docx" download="">CV</a>
-                        <a href="../assets/resource/doc/CoverLetter_LauChungYuen.docx" download="">Cover Letter</a>
+                        <a href="../assets/resource/doc/CV_LauChungYuen.docx" download>CV</a>
+                        <a href="../assets/resource/doc/CoverLetter_LauChungYuen.docx" download>Cover Letter</a>
                     </div>
                 </div>
                 <div id="top-know" v-on:click="clickHandle" >
